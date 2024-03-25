@@ -1,4 +1,4 @@
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,896 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,115 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -49,7 +49,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,897 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,116 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -100,7 +100,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,898 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,117 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -151,7 +151,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,898 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,118 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -202,7 +202,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,899 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,118 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -253,7 +253,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,899 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,119 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -304,7 +304,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,900 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,120 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -355,7 +355,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,901 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,120 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -406,7 +406,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,901 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,121 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -457,7 +457,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,902 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,121 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -508,7 +508,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,903 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,122 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -559,7 +559,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,904 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,123 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -610,7 +610,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,904 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,123 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -661,7 +661,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,905 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,124 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -712,7 +712,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,906 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,124 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -763,7 +763,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,906 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,125 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]
@@ -814,7 +814,7 @@ java.lang.RuntimeException: null
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
-WARN  [AWT-EventQueue-0] 2024-03-14T10:22:37,907 WatcherTrigger - Class ' jzombies.Zombie ' has not been prepared for watching
+WARN  [AWT-EventQueue-0] 2024-03-25T14:46:38,125 WatcherTrigger - Class 'jzombies.Zombie ' has not been prepared for watching
 java.lang.RuntimeException: null
 	at repast.simphony.engine.watcher.WatcherTrigger.addFieldSetWatch(WatcherTrigger.java:63) ~[?:?]
 	at repast.simphony.engine.watcher.WatchContextListener.processObject(WatchContextListener.java:199) ~[?:?]

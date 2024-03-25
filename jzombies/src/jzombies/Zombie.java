@@ -36,10 +36,12 @@ public class Zombie {
 
 	@ScheduledMethod(start = 1, interval = 1)
 	public void step() {
+		// get the grid location of this Zombie
 		GridPoint pt = grid.getLocation(this);
 
+		// use the GridCellNgh class to create GridCells for
+		// the surrounding neighborhood.
 		GridCellNgh<Human> nghCreator = new GridCellNgh<Human>(grid, pt, Human.class, 1, 1);
-
 		List<GridCell<Human>> gridCells = nghCreator.getNeighborhood(true);
 		SimUtilities.shuffle(gridCells, RandomHelper.getUniform());
 
@@ -52,9 +54,11 @@ public class Zombie {
 			}
 		}
 		moveTowards(pointWithMostHumans);
+		infect();
 	}
 
 	public void moveTowards(GridPoint pt) {
+		// only move if we are not already in this grid location
 		if (!pt.equals(grid.getLocation(this))) {
 			NdPoint myPoint = space.getLocation(this);
 			NdPoint otherPoint = new NdPoint(pt.getX(), pt.getY());
@@ -62,7 +66,6 @@ public class Zombie {
 			space.moveByVector(this, 1, angle, 0);
 			myPoint = space.getLocation(this);
 			grid.moveTo(this, (int) myPoint.getX(), (int) myPoint.getY());
-
 			moved = true;
 		}
 	}
@@ -75,6 +78,7 @@ public class Zombie {
 				humans.add(obj);
 			}
 		}
+
 		if (humans.size() > 0) {
 			int index = RandomHelper.nextIntFromTo(0, humans.size() - 1);
 			Object obj = humans.get(index);

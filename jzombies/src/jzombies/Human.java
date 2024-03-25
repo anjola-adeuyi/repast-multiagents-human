@@ -39,10 +39,13 @@ public class Human {
 		logger.info("I AM HERE XXXXXXXXXX");
 	}
 
-	@Watch(watcheeClassName = " jzombies.Zombie ", watcheeFieldNames = "moved", query = "within_moore 1", whenToTrigger = WatcherTriggerSchedule.IMMEDIATE)
+	@Watch(watcheeClassName = "jzombies.Zombie", watcheeFieldNames = "moved", query = "within_vn 1", whenToTrigger = WatcherTriggerSchedule.IMMEDIATE)
 	public void run() {
+		// get the grid location of this Human
 		GridPoint pt = grid.getLocation(this);
 
+		// use the GridCellNgh class to create GridCells for
+		// the surrounding neighborhood.
 		GridCellNgh<Zombie> nghCreator = new GridCellNgh<Zombie>(grid, pt, Zombie.class, 1, 1);
 		List<GridCell<Zombie>> gridCells = nghCreator.getNeighborhood(true);
 		SimUtilities.shuffle(gridCells, RandomHelper.getUniform());
@@ -64,6 +67,7 @@ public class Human {
 	}
 
 	public void moveTowards(GridPoint pt) {
+		// only move if we are not already in this grid location
 		if (!pt.equals(grid.getLocation(this))) {
 			NdPoint myPoint = space.getLocation(this);
 			NdPoint otherPoint = new NdPoint(pt.getX(), pt.getY());
@@ -74,5 +78,4 @@ public class Human {
 			energy--;
 		}
 	}
-
 }
