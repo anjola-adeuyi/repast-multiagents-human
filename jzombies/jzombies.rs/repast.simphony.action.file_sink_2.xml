@@ -1,0 +1,13 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.10.0">
+  <name>A File Sink</name>
+  <dataSet>A Data Set</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>tick</string>
+    <string>Zombie Count</string>
+    <string>Human Count</string>
+  </sourceIds>
+  <fileName>/Users/anjolaoluwaadeuyi/Documents/CPS2/MAOP/JZombieModelOutput.txt</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>
